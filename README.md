@@ -1,1 +1,1 @@
-# -note-The-missing-semester-of-your-CS-education
+# note about The missing semester of your CS education 
